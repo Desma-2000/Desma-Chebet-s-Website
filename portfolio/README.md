@@ -43,6 +43,7 @@ Or you can access the web application directly via this [https://descodes.netlif
 ## Technologies Used
 1. HTML
 2. CSS
+3 javascript
 *****
 ## Contact Information
 * Email : desmachebet@gmail.com
